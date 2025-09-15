@@ -31,12 +31,12 @@ params:
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
+    ShowAllPagesInArchive: true
     MainSections: ["CV","papers"]
-    ShowToc: false
+    ShowToc: true
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
