@@ -54,7 +54,7 @@ params:
             - name: Papers
               url: papers/
             - name: CV
-              url: CV/
+              url: cv.pdf
 
     socialIcons:
         - name: CV
