@@ -12,7 +12,7 @@ taxonomies:
 
 menu:
     main:
-         - name: CV
+        - name: CV
           url:cv/
           weight: 2
         - name: Papers
