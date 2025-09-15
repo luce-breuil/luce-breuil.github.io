@@ -46,7 +46,7 @@ params:
     profileMode:
           enabled: true
           title: Luce Breuil
-          subtitle: 'I am PhD student in Applied Mathematics at CMAP at Ecole Polytechnique. I work under the supervision of <a href="https://team.inria.fr/merge/fr/marie-doumic/" style="text-decoration: underline;" target="_blank">M.Doumic</a> and <a href="https://www.math.univ-paris13.fr/~kaakai/" style="text-decoration: underline;" target="_blank">S.Kaakaï</a>, in collaboration with <a href="https://michaelrera.github.io/" style="text-decoration: underline;" target="_blank">M.Rera</a>'
+          subtitle: 'I am PhD student in Applied Mathematics at CMAP at Ecole Polytechnique. I work under the supervision of <a href="https://team.inria.fr/merge/fr/marie-doumic/" style="text-decoration: underline;" target="_blank">M.Doumic</a> and <a href="https://www.math.univ-paris13.fr/~kaakai/" style="text-decoration: underline;" target="_blank">S.Kaakaï</a>, in collaboration with <a href="https://michaelrera.github.io/" style="text-decoration: underline;" target="_blank">M.Rera</a> <br> e-mail: luce.breuil@polytechnique.edu'
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
