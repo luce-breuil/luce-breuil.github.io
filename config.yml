@@ -44,7 +44,7 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
+          enabled: false
           title: Luce Breuil
           subtitle: "I am PhD student in Applied Mathematics at CMAP at Ecole Polytechnique. I work under the supervision of M.Doumic and S.Kaakai, in collaboration with M.Rera"
           imageUrl: "picture.jpeg"
@@ -56,6 +56,13 @@ params:
             - name: CV
               url: cv.pdf
 
+homeInfoParams:
+    Title: "Luce Breuil"
+    Content: >
+       I am a PhD student in Applied Mathematics at CMAP at Ecole Polytechnique. I work under           
+       the supervision of M.Doumic and S.Kaakai, in collaboration with M.Rera.
+
+      
     socialIcons:
         - name: Email
           url: mailto:luce.breuil@polytechnique.edu
