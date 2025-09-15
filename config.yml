@@ -51,12 +51,12 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+      - name: Papers
+        url: /papers
+      - name: CV
+        url: cv.pdf
 
-  homeInfoParams:
+    homeInfoParams:
     Title: "PaperMod's Demo"
     Content: >
       👋 Welcome to demo page of Hugo's theme PaperMod!
