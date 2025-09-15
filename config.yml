@@ -74,7 +74,7 @@ params:
           url: mailto:luce.breuil@polytechnique.edu
 
     assets:
-        disableScrollBarStyle: true
+        disableScrollBarStyle: false
     cover:
         hiddenInList: false
         hiddenInSingle: true
