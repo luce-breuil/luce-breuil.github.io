@@ -43,14 +43,8 @@ params:
     UseHugoToc: true
     comments: false
     math: true
-    profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
-  
+
+
     profileMode:
           enabled: true
           title: Luce Breuil
