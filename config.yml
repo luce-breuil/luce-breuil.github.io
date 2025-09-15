@@ -50,11 +50,19 @@ params:
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
-    buttons:
-      - name: Papers
-        url: /papers
-      - name: CV
-        url: cv.pdf
+  
+    profileMode:
+          enabled: true
+          title: Luce Breuil
+          subtitle: "I am PhD student in Applied Mathematics at CMAP at Ecole Polytechnique. I work under the supervision of M.Doumic and S.Kaakai, in collaboration with M.Rera"
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: CV
+              url: cv.pdf
 
     homeInfoParams:
     Title: "PaperMod's Demo"
