@@ -1,4 +1,4 @@
-baseURL: "https://luce_breuil.github.io" 
+baseURL: "https://luce-breuil.github.io" 
 title: Luce Breuil
 theme: PaperMod
 
@@ -13,7 +13,7 @@ taxonomies:
 menu:
     main:
         - name: CV
-          url: cv/
+          url: cv.pdf
           weight: 2
         - name: Papers
           url: papers/
