@@ -46,7 +46,7 @@ params:
 
 
     profileMode:
-          enabled: false
+          enabled: true
           title: Luce Breuil
           subtitle: "I am PhD student in Applied Mathematics at CMAP at Ecole Polytechnique. I work under the supervision of M.Doumic and S.Kaakai, in collaboration with M.Rera"
           imageUrl: "picture.jpeg"
