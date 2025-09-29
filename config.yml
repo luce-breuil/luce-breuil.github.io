@@ -47,7 +47,7 @@ params:
           enabled: true
           title: Luce Breuil
           subtitle: 'I am a 2nd year PhD student in Applied Mathematics at CMAP at Ecole Polytechnique. I work under the supervision of <a href="https://team.inria.fr/merge/fr/marie-doumic/" style="text-decoration: underline;" target="_blank">M.Doumic</a> and <a href="https://www.math.univ-paris13.fr/~kaakai/" style="text-decoration: underline;" target="_blank">S.Kaakaï</a>, in collaboration with <a href="https://michaelrera.github.io/" style="text-decoration: underline;" target="_blank">M.Rera</a>. <br> My work focuses on mathematical biology, at the interface of stochastic processes, statistics and PDEs. Currently, I am working on modeling aging as a 2-phase process inspired by the <a href="https://pubmed.ncbi.nlm.nih.gov/23236133/" style="text-decoration: underline;" target="_blank">Smurf phenotype</a> discovered by Michael Rera. I am a part of the INRIA-CMAP team <a href="https://team.inria.fr/merge/fr/" style="text-decoration: underline;" target="_blank">Merge</a>. <br> **email**: luce.breuil@polytechnique.edu'
-          imageUrl: "IMG_5350"
+          imageUrl: "IMG_5350.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
