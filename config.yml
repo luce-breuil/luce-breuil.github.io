@@ -20,7 +20,7 @@ menu:
           weight: 2
 
 params:
-    description: "This website hosts Luce Breuil's research papers, curriculum vitae, and contact information."
+    description: "This site hosts Luce Breuil's research papers, curriculum vitae, and contact information."
     author: Luce Breuil
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
