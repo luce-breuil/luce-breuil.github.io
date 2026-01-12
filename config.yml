@@ -58,7 +58,8 @@ params:
               url: papers/
             - name: CV
               url: cv.pdf
-
+            - name: Communications
+              url: communications/
 
     assets:
         disableScrollBarStyle: true
