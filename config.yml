@@ -18,6 +18,9 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
+        - name: Communications
+          url: communications/
+          weight: 2
 
 params:
     description: "This website hosts Luce Breuil research papers, curriculum vitae, and contact information."
@@ -35,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["CV","papers"]
+    MainSections: ["CV","papers","communications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
