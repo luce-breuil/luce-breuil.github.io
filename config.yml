@@ -1,3 +1,5 @@
+
+
 baseURL: "https://luce-breuil.github.io" 
 title: Luce Breuil
 theme: PaperMod
@@ -6,6 +8,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
   pagerSize: 20
+
 
 taxonomies:
     tag: tags
