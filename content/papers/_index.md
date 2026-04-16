@@ -10,4 +10,7 @@ description: "Preprints and articles by Luce Breuil."
 
 ### Papers and preprints 
 
+* [**Stability analysis and long-time convergence of a partial
+differential equation model of two-phase ageing**](https://polytechnique.hal.science/hal-05560612v2) - Preprint - L.Breuil - 2026
+* [**Acute Smurf mortality and age-dependence in a two-phase ageing model.**](https://hal.science/hal-05589412v1) - Preprint - L.Breuil, M. Doumic, S.Kaakaï and M.Rera - 2026
 * [**Nonparametric hazard rate estimation with associated kernels and minimax bandwidth choice**](https://hal.science/UNIV-PARIS8-OA/hal-05288290v1) - Preprint - L.Breuil and S.Kaakaï - 2025
