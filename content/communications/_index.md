@@ -14,4 +14,4 @@ description: "Talks and posters by L.Breuil"
 * March 2026 : **2-phase model of ageing : Stability analysis of coupled non-linear partial differential equations with age structure** - Congrès des Jeunes Chercheurs en Mathématiques Appliquées (Ecole des Ponts)
 * May 2026: **Mathematical modeling and statistical study of a 2-phase ageing model** - Presentation to the ImmunoConcept team (Bordeaux University)
 * May 2026: **Associated kernel hazard rate estimation and application to a two-phased ageing model in drosophila** - Modèles Probabilistes et Statistiques pour la Biologie (Nanterre University)
-*June 2026: **Mathematical modeling and statistical study of a 2-phase ageing model.** - Spring school, Chaire MMB Veolia, Ecole Polytechnique and MHN (Aussois)
+* June 2026: **Mathematical modeling and statistical study of a 2-phase ageing model.** - Spring school, Chaire MMB Veolia, Ecole Polytechnique and MHN (Aussois)
